@@ -9,6 +9,5 @@ require (
 	github.com/gliderlabs/sigil v0.4.0
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/mgood/go-posix v0.0.0-20150821180505-948c005421f5
-	github.com/progrium/entrykit v0.4.0
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 )
