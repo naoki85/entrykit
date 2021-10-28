@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 
 	"github.com/gliderlabs/sigil"
-	"github.com/progrium/entrykit"
+	"github.com/naoki85/entrykit"
 
 	_ "github.com/gliderlabs/sigil/builtin"
 )

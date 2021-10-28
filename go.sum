@@ -10,8 +10,6 @@ github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 h1:iQTw/8FWTuc7uia
 github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0/go.mod h1:1NbS8ALrpOvjt0rHPNLyCIeMtbizbir8U//inJ+zuB8=
 github.com/mgood/go-posix v0.0.0-20150821180505-948c005421f5 h1:AutzcJSqc7ROMqcjPKmxwLl//YrzDPb4tLSBlH3Irdc=
 github.com/mgood/go-posix v0.0.0-20150821180505-948c005421f5/go.mod h1:irVTeKOI2GrudEK6/mqR4dDlGH91lCZIZM34YKSKH7M=
-github.com/progrium/entrykit v0.4.0 h1:s1h6cNAzSkHk2IC9f57I9NuNjBfN4F7wPBb3qiVH3OE=
-github.com/progrium/entrykit v0.4.0/go.mod h1:hO7swluf5U0+mXFScCy72aH/mC47vyngGu4U+D/x67g=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.2.4 h1:/eiJrUcujPVeJ3xlSWaiNi3uSVmDGBK1pDHUHAnao1I=

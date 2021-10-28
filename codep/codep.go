@@ -3,7 +3,7 @@ package codep
 import (
 	"os/exec"
 
-	"github.com/progrium/entrykit"
+	"github.com/naoki85/entrykit"
 )
 
 func init() {

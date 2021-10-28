@@ -1,7 +1,7 @@
 package prehook
 
 import (
-	"github.com/progrium/entrykit"
+	"github.com/naoki85/entrykit"
 )
 
 func init() {
