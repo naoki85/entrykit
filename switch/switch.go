@@ -3,7 +3,7 @@ package switch_
 import (
 	"os"
 
-	"github.com/progrium/entrykit"
+	"github.com/naoki85/entrykit"
 )
 
 func init() {

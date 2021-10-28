@@ -1,4 +1,4 @@
-module github.com/progrium/entrykit
+module github.com/naoki85/entrykit
 
 go 1.11
 
